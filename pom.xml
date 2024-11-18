@@ -36,13 +36,10 @@
         </dependency>
 
         <dependency>
-            <groupId>org.thymeleaf</groupId>
-            <artifactId>thymeleaf</artifactId>
-            <version>3.0.12.RELEASE</version>
+            <groupId>ognl</groupId>
+            <artifactId>ognl</artifactId>
+            <version>3.1.12</version>
         </dependency>
-
-
-
 
 
 
